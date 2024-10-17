@@ -1,0 +1,15 @@
+Package: cn.masterking.revealloader
+Version: 0.1-1
+Architecture: iphoneos-arm
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: debs/cn.masterking.revealloader_0.1-1_iphoneos-arm.deb
+Size: 360554
+MD5sum: c10cf90290c148fe59a95ebccd398371
+SHA1: c3e27af901d141aa633213886f8774dd5f0489cf
+SHA256: 01e833fce9bb9ae2b596ed7dd0b19893f761858f7af074b9c8abb95a392ca5db
+Section: System
+Priority: optional
+Author: franky
+Depiction: 安装此插件将启用RevealServer.framework，打开Mac上的Reveal就能看到可以调试的App了。不需要像以前那些RevealLoader一样还要去设置里面打开开关脱裤子放屁。
+Name: revealloader
+
