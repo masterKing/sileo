@@ -1,9 +1,9 @@
-Origin: MasterKing
-Label: YourRepoLabel
+Origin: MasterKing's Repo
+Label: MasterKing's Repo
 Suite: stable
 Version: 1.0
 Codename: ios
-Architecture: iphoneos-arm
+Architectures: iphoneos-arm iphoneos-arm64
 Components: main
-Description: A description of your repo
-Icon: CydiaIcon.png
+Description: MasterKing's Sileo Repo
+Icon: Icon.png

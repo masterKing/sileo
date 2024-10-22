@@ -1,15 +1,32 @@
-Package: cn.masterking.revealloader
-Version: 1.0
-Architecture: iphoneos-arm
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: debs/cn.masterking.revealloader_1.0_iphoneos-arm.deb
-Size: 359832
-MD5sum: 777f2403909c8e76ecf41c3af426957f
-SHA1: bdf7c0abbe4edb1b511e44173a6c42620c05f82a
-SHA256: 53bb1ae67dc3789e96d93c13e0cb40b27c1495323e1a89cde7ecf4c43beafaa9
+Package: com.masterking.revealloader2
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: masterKing <masterking1012@gmail.com>
+Installed-Size: 1604
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: debs/com.masterking.revealloader2_0.0.1_iphoneos-arm64.deb
+Size: 278126
+MD5sum: 726a3383eaa70d8a99403abd7cde59c1
+SHA1: 41c7295f4843cfbe933cf24d330903548d061b5c
+SHA256: 72a4eaca3ee2730225ff23df76637ccc86edafee43feac3716235cdb89101b2f
 Section: System
-Priority: optional
-Description: 安装此插件将启用 RevealServer.framework，打开 Mac 上的 Reveal 就能看到可以调试的 App 了。可以将你自己 Mac 上的 RevealServer.framework 放入越狱设备的 /Library/Frameworks/ 下。不需要像以前那些 RevealLoader 插件一样还要去设置里面打开开关。已经在 iOS16.7.10 验证可以使用。
-Author: franky
-Name: revealloader
+Description: Dynamically loads RevealServer.framework into iOS applications.
+Author: masterKing <masterking1012@gmail.com>
+Name: RevealLoader2
+
+Package: com.masterking.revealloader2
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: masterKing <masterking1012@gmail.com>
+Installed-Size: 1668
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: debs/com.masterking.revealloader2_0.0.1_iphoneos-arm.deb
+Size: 281586
+MD5sum: bd54f95bce0d4ffd62a1f7d3a1bbbfa8
+SHA1: 25e2388010144d125ff1ec9bbf5ffe845273f414
+SHA256: 3497ace3ec837c0f2bea667cea05f5b27281bb8b88c2aa89f3b9060cdce9a388
+Section: System
+Description: Dynamically loads RevealServer.framework into iOS applications.
+Author: masterKing <masterking1012@gmail.com>
+Name: RevealLoader2
 
