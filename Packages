@@ -1,3 +1,35 @@
+Package: com.masterking.lookinloader2
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: masterKing <masterking1012@gmail.com>
+Installed-Size: 1696
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: debs/com.masterking.lookinloader2_0.0.1_iphoneos-arm.deb
+Size: 243342
+MD5sum: 5c695fa99f84b4118ade8756687f651f
+SHA1: b5a87fe94343912d4eaa778918873b873cd8770f
+SHA256: 504c0c1a25ecd89b0d8c482ea0cde7bc0a28a92a9668c9916c8bb87298abe0f8
+Section: Tweaks
+Description: Dynamically loads RevealServer.framework into iOS applications.
+Author: masterKing <masterking1012@gmail.com>
+Name: LookinLoader2
+
+Package: com.masterking.lookinloader2
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: masterKing <masterking1012@gmail.com>
+Installed-Size: 1632
+Depends: mobilesubstrate (>= 0.9.5000), com.opa334.altlist, preferenceloader
+Filename: debs/com.masterking.lookinloader2_0.0.1_iphoneos-arm64.deb
+Size: 238522
+MD5sum: b73cad0ff55c55d3c937db0757d8d03f
+SHA1: 99b2a5f24ff4644c8f53f0fa20f97260bb8b46de
+SHA256: 6f96c41f00f3ad407bbbc3412b5ce18831fdab5753fe8c0234b78b3964648f46
+Section: Tweaks
+Description: Dynamically loads RevealServer.framework into iOS applications.
+Author: masterKing <masterking1012@gmail.com>
+Name: LookinLoader2
+
 Package: com.masterking.revealloader2
 Version: 0.0.1
 Architecture: iphoneos-arm64
